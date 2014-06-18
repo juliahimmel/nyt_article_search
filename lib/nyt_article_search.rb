@@ -1,5 +1,6 @@
 
-require "nyt_article_search/version"
+# require "nyt_article_search/version"
+require 'httparty'
 
 module NytArticleSearch
   # Your code goes here...

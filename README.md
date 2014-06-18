@@ -1,6 +1,6 @@
 # NytArticleSearch
 
-TODO: Write a gem description
+A gem wrapper for the New York Times Article Search v2 API
 
 ## Installation
 
